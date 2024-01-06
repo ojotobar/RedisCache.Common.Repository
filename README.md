@@ -35,4 +35,4 @@ You can then inject the ```ICacheCommonRepository``` interface into the class yo
 ***
 To view the source code or get in touch:
 * [Github Repository Link](https://github.com/ojotobar/RedisCache.Common.Repository)
-* [My Email Address](ojotobar@gmail.com)
+* [Send Me a Mail](mailto:ojotobar@gmail.com)
